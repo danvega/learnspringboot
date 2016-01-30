@@ -312,12 +312,14 @@ span.valign {
   line-height: 20px;
   padding: 8px 20px;
   margin: 10px 0;
+  /*
   text-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none;  
   background: none;
   border: 2px solid rgba(255,255,255,.5);
   color: rgba(255,255,255,.8);
+  */
 
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -326,6 +328,7 @@ span.valign {
   -webkit-transition: .3s;
   transition: .3s;
 }
+/*
   .btn:hover {  
     border-color: rgba(255,255,255,.8);  
     color: #fff;
@@ -350,8 +353,7 @@ span.valign {
     font-size: 16px;
     margin-right: 10px;
   }
-
-  /* button sizes */
+  
   .btn.btn-large {
     padding: 0 25px;
     height: 70px;
@@ -360,7 +362,7 @@ span.valign {
   }
     .btn.btn-large span[class^="icon"], .btn.btn-large i { margin-right: 25px; }
     .btn.btn-large:active { box-shadow: 0 0 0 0 #1d2031; }
-
+*/
 
 
 /* Container */ 
